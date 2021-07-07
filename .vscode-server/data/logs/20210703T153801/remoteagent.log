@@ -1,0 +1,41 @@
+[2021-07-03 15:38:01.563] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-07-03 15:38:01.563] [remoteagent] [info] Extension host agent started.
+[2021-07-03 15:38:01.804] [remoteagent] [info] [::ffff:172.28.144.1][3a1e2af6][ManagementConnection] New connection established.
+[2021-07-03 15:38:01.807] [remoteagent] [info] [::ffff:172.28.144.1][203b65a0][ExtensionHostConnection] New connection established.
+[2021-07-03 15:38:01.955] [remoteagent] [info] [::ffff:172.28.144.1][203b65a0][ExtensionHostConnection] <280> Launched Extension Host Process.
+[2021-07-03 15:38:43.122] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2021-07-03 15:38:45.248] [remoteagent] [info] Downloaded extension: naumovs.color-highlight /home/garcy17/.vscode-server/data/CachedExtensionVSIXs/naumovs.color-highlight-2.3.0
+[2021-07-03 15:38:45.424] [remoteagent] [info] Extracted extension to /home/garcy17/.vscode-server/extensions/.90b85ae1-e579-4eec-a3e0-bea5d10a24cd: naumovs.color-highlight
+[2021-07-03 15:38:45.500] [remoteagent] [info] Renamed to /home/garcy17/.vscode-server/extensions/naumovs.color-highlight-2.3.0
+[2021-07-03 15:38:45.501] [remoteagent] [info] Installation completed. naumovs.color-highlight
+[2021-07-03 15:38:45.556] [remoteagent] [info] Extensions installed successfully: naumovs.color-highlight
+[2021-07-03 15:38:47.791] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2021-07-03 15:38:51.913] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/garcy17/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-07-03 15:38:52.588] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2021-07-03 15:38:54.412] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/garcy17/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.3.0
+[2021-07-03 15:38:54.493] [remoteagent] [info] Extracted extension to /home/garcy17/.vscode-server/extensions/.612a0f03-a638-44f6-8067-4f26497c3e4b: christian-kohler.path-intellisense
+[2021-07-03 15:38:54.520] [remoteagent] [info] Extracted extension to /home/garcy17/.vscode-server/extensions/.6435e767-fc5c-4f61-b66b-a7d2e6adb854: ritwickdey.liveserver
+[2021-07-03 15:38:54.562] [remoteagent] [info] Renamed to /home/garcy17/.vscode-server/extensions/christian-kohler.path-intellisense-2.3.0
+[2021-07-03 15:38:54.563] [remoteagent] [info] Installation completed. christian-kohler.path-intellisense
+[2021-07-03 15:38:54.620] [remoteagent] [info] Renamed to /home/garcy17/.vscode-server/extensions/ritwickdey.liveserver-5.6.1
+[2021-07-03 15:38:54.622] [remoteagent] [info] Installation completed. ritwickdey.liveserver
+[2021-07-03 15:38:54.687] [remoteagent] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2021-07-03 15:38:54.745] [remoteagent] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-07-03 15:38:56.769] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2021-07-03 15:39:01.315] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/garcy17/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-8.0.1
+[2021-07-03 15:39:01.612] [remoteagent] [info] Extracted extension to /home/garcy17/.vscode-server/extensions/.b8b4eb20-2a93-4105-b30c-562a43d169cf: esbenp.prettier-vscode
+[2021-07-03 15:39:01.670] [remoteagent] [info] Renamed to /home/garcy17/.vscode-server/extensions/esbenp.prettier-vscode-8.0.1
+[2021-07-03 15:39:01.671] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2021-07-03 15:39:01.728] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-07-04 13:20:34.286] [remoteagent] [info] [::ffff:172.28.144.1][3a1e2af6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-04 13:20:35.350] [remoteagent] [info] [::ffff:172.28.144.1][203b65a0][ExtensionHostConnection] <280> Extension Host Process exited with code: 0, signal: null.
+[2021-07-04 13:20:35.351] [remoteagent] [info] Last EH closed, waiting before shutting down

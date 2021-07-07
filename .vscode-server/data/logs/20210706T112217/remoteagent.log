@@ -1,0 +1,137 @@
+[2021-07-06 11:22:18.068] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-07-06 11:22:18.068] [remoteagent] [info] Extension host agent started.
+[2021-07-06 11:22:19.978] [remoteagent] [info] [::ffff:172.21.48.1][1a021c4d][ManagementConnection] New connection established.
+[2021-07-06 11:22:19.980] [remoteagent] [info] [::ffff:172.21.48.1][52f47942][ExtensionHostConnection] New connection established.
+[2021-07-06 11:22:20.125] [remoteagent] [info] [::ffff:172.21.48.1][52f47942][ExtensionHostConnection] <172> Launched Extension Host Process.
+[2021-07-06 11:23:46.906] [remoteagent] [info] [::ffff:172.21.48.1][10f0bc6b][ManagementConnection] New connection established.
+[2021-07-06 11:23:46.906] [remoteagent] [info] [::ffff:172.21.48.1][91cefe71][ExtensionHostConnection] New connection established.
+[2021-07-06 11:23:46.911] [remoteagent] [info] [::ffff:172.21.48.1][91cefe71][ExtensionHostConnection] <235> Launched Extension Host Process.
+[2021-07-06 11:23:48.360] [remoteagent] [warning] Resolved variables received without matching request 21
+[2021-07-06 11:23:48.649] [remoteagent] [warning] Resolved variables received without matching request 22
+[2021-07-06 11:23:49.243] [remoteagent] [warning] Resolved variables received without matching request 23
+[2021-07-06 11:23:49.372] [remoteagent] [warning] Resolved variables received without matching request 24
+[2021-07-06 11:23:49.611] [remoteagent] [warning] Resolved variables received without matching request 25
+[2021-07-06 11:23:50.114] [remoteagent] [warning] Resolved variables received without matching request 26
+[2021-07-06 11:23:50.115] [remoteagent] [warning] Resolved variables received without matching request 27
+[2021-07-06 11:23:50.123] [remoteagent] [warning] Resolved variables received without matching request 28
+[2021-07-06 11:23:50.227] [remoteagent] [warning] Resolved variables received without matching request 29
+[2021-07-06 11:23:50.241] [remoteagent] [warning] Resolved variables received without matching request 30
+[2021-07-06 11:23:51.819] [remoteagent] [warning] Resolved variables received without matching request 31
+[2021-07-06 11:23:51.856] [remoteagent] [warning] Resolved variables received without matching request 32
+[2021-07-06 11:23:51.938] [remoteagent] [warning] Resolved variables received without matching request 33
+[2021-07-06 11:23:51.987] [remoteagent] [warning] Resolved variables received without matching request 34
+[2021-07-06 11:23:52.031] [remoteagent] [warning] Resolved variables received without matching request 35
+[2021-07-06 11:54:22.946] [remoteagent] [info] [::ffff:172.21.48.1][1a021c4d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-06 11:54:23.974] [remoteagent] [info] [::ffff:172.21.48.1][52f47942][ExtensionHostConnection] <172> Extension Host Process exited with code: 0, signal: null.
+[2021-07-06 12:01:51.407] [remoteagent] [info] [::ffff:172.21.48.1][73fa2ac2][ManagementConnection] New connection established.
+[2021-07-06 12:01:51.411] [remoteagent] [info] [::ffff:172.21.48.1][16ae731d][ExtensionHostConnection] New connection established.
+[2021-07-06 12:01:51.417] [remoteagent] [info] [::ffff:172.21.48.1][16ae731d][ExtensionHostConnection] <1174> Launched Extension Host Process.
+[2021-07-06 12:01:51.700] [remoteagent] [warning] Resolved variables received without matching request 36
+[2021-07-06 12:01:52.459] [remoteagent] [warning] Resolved variables received without matching request 37
+[2021-07-06 12:01:52.873] [remoteagent] [warning] Resolved variables received without matching request 38
+[2021-07-06 12:01:52.893] [remoteagent] [warning] Resolved variables received without matching request 39
+[2021-07-06 12:01:52.985] [remoteagent] [warning] Resolved variables received without matching request 40
+[2021-07-06 12:01:53.367] [remoteagent] [warning] Resolved variables received without matching request 41
+[2021-07-06 12:01:53.367] [remoteagent] [warning] Resolved variables received without matching request 42
+[2021-07-06 12:01:53.667] [remoteagent] [warning] Resolved variables received without matching request 43
+[2021-07-06 12:01:53.844] [remoteagent] [warning] Resolved variables received without matching request 44
+[2021-07-06 12:01:53.865] [remoteagent] [warning] Resolved variables received without matching request 45
+[2021-07-06 12:01:55.165] [remoteagent] [warning] Resolved variables received without matching request 46
+[2021-07-06 12:01:55.224] [remoteagent] [warning] Resolved variables received without matching request 47
+[2021-07-06 12:01:55.275] [remoteagent] [warning] Resolved variables received without matching request 48
+[2021-07-06 12:01:55.337] [remoteagent] [warning] Resolved variables received without matching request 49
+[2021-07-06 12:01:55.380] [remoteagent] [warning] Resolved variables received without matching request 50
+[2021-07-06 12:01:58.742] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/Pc5/AppData/Local/Datos de programa" points to "/mnt/c/Users/Pc5/AppData/Local"
+[2021-07-06 12:07:25.627] [remoteagent] [info] [::ffff:172.21.48.1][73fa2ac2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-06 12:07:26.669] [remoteagent] [info] [::ffff:172.21.48.1][16ae731d][ExtensionHostConnection] <1174> Extension Host Process exited with code: 0, signal: null.
+[2021-07-06 12:08:16.312] [remoteagent] [info] [::ffff:172.21.48.1][7d90de45][ManagementConnection] New connection established.
+[2021-07-06 12:08:16.351] [remoteagent] [info] [::ffff:172.21.48.1][264594e1][ExtensionHostConnection] New connection established.
+[2021-07-06 12:08:16.362] [remoteagent] [info] [::ffff:172.21.48.1][264594e1][ExtensionHostConnection] <1316> Launched Extension Host Process.
+[2021-07-06 12:08:16.497] [remoteagent] [warning] Resolved variables received without matching request 51
+[2021-07-06 12:08:16.835] [remoteagent] [warning] Resolved variables received without matching request 52
+[2021-07-06 12:08:17.679] [remoteagent] [warning] Resolved variables received without matching request 53
+[2021-07-06 12:08:17.799] [remoteagent] [warning] Resolved variables received without matching request 54
+[2021-07-06 12:08:17.907] [remoteagent] [warning] Resolved variables received without matching request 55
+[2021-07-06 12:08:18.023] [remoteagent] [warning] Resolved variables received without matching request 56
+[2021-07-06 12:08:18.023] [remoteagent] [warning] Resolved variables received without matching request 57
+[2021-07-06 12:08:18.345] [remoteagent] [warning] Resolved variables received without matching request 58
+[2021-07-06 12:08:18.467] [remoteagent] [warning] Resolved variables received without matching request 59
+[2021-07-06 12:08:18.533] [remoteagent] [warning] Resolved variables received without matching request 60
+[2021-07-06 12:08:19.934] [remoteagent] [warning] Resolved variables received without matching request 61
+[2021-07-06 12:08:20.167] [remoteagent] [warning] Resolved variables received without matching request 62
+[2021-07-06 12:08:20.300] [remoteagent] [warning] Resolved variables received without matching request 63
+[2021-07-06 12:08:20.503] [remoteagent] [warning] Resolved variables received without matching request 64
+[2021-07-06 12:08:20.645] [remoteagent] [warning] Resolved variables received without matching request 65
+[2021-07-06 12:08:22.645] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/Pc5/AppData/Local/Datos de programa" points to "/mnt/c/Users/Pc5/AppData/Local"
+[2021-07-06 12:08:27.793] [remoteagent] [info] [::ffff:172.21.48.1][7d90de45][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-06 12:08:28.813] [remoteagent] [info] [::ffff:172.21.48.1][264594e1][ExtensionHostConnection] <1316> Extension Host Process exited with code: 0, signal: null.
+[2021-07-06 12:08:51.987] [remoteagent] [info] [::ffff:172.21.48.1][7149db4e][ManagementConnection] New connection established.
+[2021-07-06 12:08:51.988] [remoteagent] [info] [::ffff:172.21.48.1][99c8e677][ExtensionHostConnection] New connection established.
+[2021-07-06 12:08:51.992] [remoteagent] [info] [::ffff:172.21.48.1][99c8e677][ExtensionHostConnection] <1411> Launched Extension Host Process.
+[2021-07-06 12:08:52.158] [remoteagent] [warning] Resolved variables received without matching request 66
+[2021-07-06 12:08:52.523] [remoteagent] [warning] Resolved variables received without matching request 67
+[2021-07-06 12:08:52.921] [remoteagent] [warning] Resolved variables received without matching request 68
+[2021-07-06 12:08:53.154] [remoteagent] [warning] Resolved variables received without matching request 69
+[2021-07-06 12:08:53.154] [remoteagent] [warning] Resolved variables received without matching request 70
+[2021-07-06 12:08:53.349] [remoteagent] [warning] Resolved variables received without matching request 71
+[2021-07-06 12:08:53.411] [remoteagent] [warning] Resolved variables received without matching request 72
+[2021-07-06 12:08:53.661] [remoteagent] [warning] Resolved variables received without matching request 73
+[2021-07-06 12:08:53.825] [remoteagent] [warning] Resolved variables received without matching request 74
+[2021-07-06 12:08:53.834] [remoteagent] [warning] Resolved variables received without matching request 75
+[2021-07-06 12:08:55.323] [remoteagent] [warning] Resolved variables received without matching request 76
+[2021-07-06 12:08:55.390] [remoteagent] [warning] Resolved variables received without matching request 77
+[2021-07-06 12:08:55.446] [remoteagent] [warning] Resolved variables received without matching request 78
+[2021-07-06 12:08:55.497] [remoteagent] [warning] Resolved variables received without matching request 79
+[2021-07-06 12:08:55.551] [remoteagent] [warning] Resolved variables received without matching request 80
+[2021-07-06 12:10:55.374] [remoteagent] [warning] Resolved variables received without matching request 81
+[2021-07-06 12:10:55.378] [remoteagent] [warning] Resolved variables received without matching request 82
+[2021-07-06 12:10:55.392] [remoteagent] [info] *
+[2021-07-06 12:10:55.396] [remoteagent] [info] baseEnv {"USER":"garcy17","VSCODE_WSL_EXT_LOCATION":"/mnt/c/Users/Pc5/.vscode/extensions/ms-vscode-remote.remote-wsl-0.56.5","SHLVL":"1","WT_PROFILE_ID":"{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}","HOME":"/home/garcy17","WSL_DISTRO_NAME":"Ubuntu-20.04","LOGNAME":"garcy17","NAME":"Code","WSL_INTEROP":"/run/WSL/9_interop","_":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code/bin/code","TERM":"xterm-256color","PATH":"/home/garcy17/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/Pc5/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin","VSCODE_AGENT_FOLDER":"/home/garcy17/.vscode-server","WT_SESSION":"122faa3f-397e-4cfb-b9d2-49c4a9afc0bc","LANG":"C.UTF-8","SHELL":"/bin/bash","PWD":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code","HOSTTYPE":"x86_64","WSLENV":"ELECTRON_RUN_AS_NODE/w:WT_SESSION::WT_PROFILE_ID","VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH":"/home/garcy17/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules","VSCODE_CWD":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code","LS_COLORS":"rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:","LESSCLOSE":"/usr/bin/lesspipe %s %s","LESSOPEN":"| /usr/bin/lesspipe %s","XDG_DATA_DIRS":"/usr/local/share:/usr/share:/var/lib/snapd/desktop","VSCODE_LOG_NATIVE":"false","VSCODE_AMD_ENTRYPOINT":"vs/server/remoteExtensionHostProcess","VSCODE_PIPE_LOGGING":"true","VSCODE_VERBOSE_LOGGING":"true","VSCODE_EXTHOST_WILL_SEND_SOCKET":"true","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_LOG_STACK":"false","VSCODE_NLS_CONFIG":"{\"locale\":\"en\",\"availableLanguages\":{}}","MOTD_SHOWN":"update-motd"}
+[2021-07-06 12:10:55.434] [remoteagent] [warning] Resolved variables received without matching request 83
+[2021-07-06 12:10:55.485] [remoteagent] [warning] Resolved variables received without matching request 84
+[2021-07-06 12:10:55.529] [remoteagent] [warning] Resolved variables received without matching request 85
+[2021-07-06 12:10:56.444] [remoteagent] [warning] Resolved variables received without matching request 86
+[2021-07-06 12:10:56.488] [remoteagent] [warning] Resolved variables received without matching request 87
+[2021-07-06 12:10:56.540] [remoteagent] [warning] Resolved variables received without matching request 88
+[2021-07-06 12:10:56.597] [remoteagent] [warning] Resolved variables received without matching request 89
+[2021-07-06 12:10:56.644] [remoteagent] [warning] Resolved variables received without matching request 90
+[2021-07-06 12:23:19.721] [remoteagent] [warning] Resolved variables received without matching request 91
+[2021-07-06 12:23:19.739] [remoteagent] [info] [::ffff:172.21.48.1][7149db4e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-06 12:23:20.770] [remoteagent] [info] [::ffff:172.21.48.1][99c8e677][ExtensionHostConnection] <1411> Extension Host Process exited with code: 0, signal: null.
+[2021-07-06 12:23:23.766] [remoteagent] [info] [::ffff:172.21.48.1][3f71d599][ExtensionHostConnection] New connection established.
+[2021-07-06 12:23:23.771] [remoteagent] [info] [::ffff:172.21.48.1][3f71d599][ExtensionHostConnection] <1579> Launched Extension Host Process.
+[2021-07-06 12:23:23.787] [remoteagent] [info] [::ffff:172.21.48.1][582a0788][ManagementConnection] New connection established.
+[2021-07-06 12:23:24.431] [remoteagent] [warning] Resolved variables received without matching request 96
+[2021-07-06 12:23:24.506] [remoteagent] [warning] Resolved variables received without matching request 97
+[2021-07-06 12:23:24.845] [remoteagent] [warning] Resolved variables received without matching request 98
+[2021-07-06 12:23:24.994] [remoteagent] [warning] Resolved variables received without matching request 99
+[2021-07-06 12:23:25.001] [remoteagent] [warning] Resolved variables received without matching request 100
+[2021-07-06 12:23:25.091] [remoteagent] [warning] Resolved variables received without matching request 101
+[2021-07-06 12:23:25.241] [remoteagent] [warning] Resolved variables received without matching request 102
+[2021-07-06 12:23:25.255] [remoteagent] [warning] Resolved variables received without matching request 103
+[2021-07-06 12:23:25.372] [remoteagent] [warning] Resolved variables received without matching request 104
+[2021-07-06 12:23:25.394] [remoteagent] [warning] Resolved variables received without matching request 105
+[2021-07-06 12:23:25.502] [remoteagent] [info] *
+[2021-07-06 12:23:25.504] [remoteagent] [info] baseEnv {"USER":"garcy17","VSCODE_WSL_EXT_LOCATION":"/mnt/c/Users/Pc5/.vscode/extensions/ms-vscode-remote.remote-wsl-0.56.5","SHLVL":"1","WT_PROFILE_ID":"{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}","HOME":"/home/garcy17","WSL_DISTRO_NAME":"Ubuntu-20.04","LOGNAME":"garcy17","NAME":"Code","WSL_INTEROP":"/run/WSL/9_interop","_":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code/bin/code","TERM":"xterm-256color","PATH":"/home/garcy17/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/Pc5/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin","VSCODE_AGENT_FOLDER":"/home/garcy17/.vscode-server","WT_SESSION":"122faa3f-397e-4cfb-b9d2-49c4a9afc0bc","LANG":"C.UTF-8","SHELL":"/bin/bash","PWD":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code","HOSTTYPE":"x86_64","WSLENV":"ELECTRON_RUN_AS_NODE/w:WT_SESSION::WT_PROFILE_ID","VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH":"/home/garcy17/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules","VSCODE_CWD":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code","LS_COLORS":"rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:","LESSCLOSE":"/usr/bin/lesspipe %s %s","LESSOPEN":"| /usr/bin/lesspipe %s","XDG_DATA_DIRS":"/usr/local/share:/usr/share:/var/lib/snapd/desktop","VSCODE_LOG_NATIVE":"false","VSCODE_AMD_ENTRYPOINT":"vs/server/remoteExtensionHostProcess","VSCODE_PIPE_LOGGING":"true","VSCODE_VERBOSE_LOGGING":"true","VSCODE_EXTHOST_WILL_SEND_SOCKET":"true","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_LOG_STACK":"false","VSCODE_NLS_CONFIG":"{\"locale\":\"en\",\"availableLanguages\":{}}","MOTD_SHOWN":"update-motd"}
+[2021-07-06 12:23:26.369] [remoteagent] [warning] Resolved variables received without matching request 106
+[2021-07-06 12:23:26.421] [remoteagent] [warning] Resolved variables received without matching request 107
+[2021-07-06 12:23:26.479] [remoteagent] [warning] Resolved variables received without matching request 108
+[2021-07-06 12:23:26.528] [remoteagent] [warning] Resolved variables received without matching request 109
+[2021-07-06 12:23:26.574] [remoteagent] [warning] Resolved variables received without matching request 110
+[2021-07-06 12:23:28.366] [remoteagent] [info] *
+[2021-07-06 12:23:28.368] [remoteagent] [info] baseEnv {"USER":"garcy17","VSCODE_WSL_EXT_LOCATION":"/mnt/c/Users/Pc5/.vscode/extensions/ms-vscode-remote.remote-wsl-0.56.5","SHLVL":"1","WT_PROFILE_ID":"{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}","HOME":"/home/garcy17","WSL_DISTRO_NAME":"Ubuntu-20.04","LOGNAME":"garcy17","NAME":"Code","WSL_INTEROP":"/run/WSL/9_interop","_":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code/bin/code","TERM":"xterm-256color","PATH":"/home/garcy17/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/Pc5/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin","VSCODE_AGENT_FOLDER":"/home/garcy17/.vscode-server","WT_SESSION":"122faa3f-397e-4cfb-b9d2-49c4a9afc0bc","LANG":"C.UTF-8","SHELL":"/bin/bash","PWD":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code","HOSTTYPE":"x86_64","WSLENV":"ELECTRON_RUN_AS_NODE/w:WT_SESSION::WT_PROFILE_ID","VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH":"/home/garcy17/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules","VSCODE_CWD":"/mnt/c/Users/Pc5/AppData/Local/Programs/Microsoft VS Code","LS_COLORS":"rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:","LESSCLOSE":"/usr/bin/lesspipe %s %s","LESSOPEN":"| /usr/bin/lesspipe %s","XDG_DATA_DIRS":"/usr/local/share:/usr/share:/var/lib/snapd/desktop","VSCODE_LOG_NATIVE":"false","VSCODE_AMD_ENTRYPOINT":"vs/server/remoteExtensionHostProcess","VSCODE_PIPE_LOGGING":"true","VSCODE_VERBOSE_LOGGING":"true","VSCODE_EXTHOST_WILL_SEND_SOCKET":"true","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_LOG_STACK":"false","VSCODE_NLS_CONFIG":"{\"locale\":\"en\",\"availableLanguages\":{}}","MOTD_SHOWN":"update-motd"}
+[2021-07-06 23:41:00.182] [remoteagent] [warning] Resolved variables received without matching request 111
+[2021-07-06 23:41:00.223] [remoteagent] [info] [::ffff:172.21.48.1][582a0788][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-06 23:41:01.282] [remoteagent] [info] [::ffff:172.21.48.1][3f71d599][ExtensionHostConnection] <1579> Extension Host Process exited with code: 0, signal: null.
+[2021-07-06 23:41:15.169] [remoteagent] [info] [::ffff:172.21.48.1][10f0bc6b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-06 23:41:16.230] [remoteagent] [info] [::ffff:172.21.48.1][91cefe71][ExtensionHostConnection] <235> Extension Host Process exited with code: 0, signal: null.
+[2021-07-06 23:41:16.230] [remoteagent] [info] Last EH closed, waiting before shutting down
